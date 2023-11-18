@@ -1,0 +1,21 @@
+{
+    "Ads": {
+        "show_ads": true,
+        "bannerAd": "admob",
+        "InterAd": "admob",
+        "NativeAd": "admob",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"admob_openad": "",
+        "facebook_banner": "",
+        "facebook_inter": "5760653127353362_5760696190682389",
+        "facebook_native": "",
+        "max_banner": "3aa034759518f7c2",
+        "max_inter": "0038c4c5c972784e",
+        "max_native": "64ea2f2ef41edb34",
+        "intersitial_click_activites": 1,
+        "intersitial_click_list": 1
+
+    }
+}
